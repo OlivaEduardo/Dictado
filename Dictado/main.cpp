@@ -4,7 +4,7 @@
 
 int main()
 {
-	const unsigned short int PSize = 1000;
+	const indexes PSize = 1000;
 	char P[PSize];
 
 	std::cout << "Ingrese una palabra: " << std::endl;
